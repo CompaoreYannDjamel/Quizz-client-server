@@ -1,0 +1,26 @@
+Exécution du Serveur
+
+1.Ouvrir le Terminal ou l'Invite de Commande.
+
+2.Naviguer vers le Dossier des Fichiers Java :
+cd chemin_vers_le_dossier
+Remplacez chemin_vers_le_dossier par le chemin d'accès à vos fichiers Java.
+
+3.Compiler les Fichiers Java :
+javac *.java
+Cela compile tous les fichiers .java dans le dossier.
+
+4.Lancer le Serveur :
+java Server
+
+
+Exécution des Clients
+Ouvrir un Nouveau Terminal ou une Nouvelle Invite de Commande pour Chaque Client.
+Naviguer vers le Même Dossier :
+cd chemin_vers_le_dossier
+Lancer le Client :
+java Client
+
+Répétez pour chaque client nécessaire.
+Notes
+Assurez-vous que le serveur est en cours d'exécution avant de lancer les clients.
